@@ -1,4 +1,7 @@
-![](/214737.jpg | width=100)
+<p align="center"> 
+![profile picture](/214737.jpg)
+</p>
+
 ## Biography
 
 Mr. Athiporn Phumnicom received his B.S. degrees in Computer Informatics in 2011 from Burapha University.

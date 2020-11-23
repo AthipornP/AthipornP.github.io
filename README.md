@@ -1,11 +1,7 @@
-## *Athiporn Phumnicom*
----
-
 #### Biography
 ![profile picture](/214737.jpg "Athiporn Phumnicom"){:height="18%" width="18%" style="float: right"} 
 Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System in 2012 from Burapha University.
 
----
 ###### *2014 - Present*
 - Mr. Athiporn Phumnicom joined the senior system development at Bangkok Expressway and Metro Public Company Limited.
 

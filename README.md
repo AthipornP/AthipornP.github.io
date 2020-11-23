@@ -1,16 +1,16 @@
-#### Biography
+## Biography
 ![profile picture](/214737.jpg "Athiporn Phumnicom"){:height="18%" width="18%" style="float: right"} 
 Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System in 2012 from Burapha University.
 
-###### *2014 - Present*
+#### *2014 - Present*
 - Mr. Athiporn Phumnicom joined the senior system development at Bangkok Expressway and Metro Public Company Limited.
 
-###### *2013 - 2014*
+#### *2013 - 2014*
 - Mr. Athiporn Phumnicom joined the web development at J.I.B. COMPUTER GROUP CO.,LTD.
 
 ---
-###### *Technical Skill*
-- Languages:
+#### Technical Skill
+- **Languages:**
   - C#
   - Visual Basic  
   - Python
@@ -21,7 +21,7 @@ Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System 
   - JavaScript
   - jQuery
   - SQL
-- .NET Technology:
+- **.NET Technology:**
   - ASP.NET
   - MVC
   - MVVM
@@ -29,9 +29,9 @@ Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System 
   - APIs
   - Blazor
   - Entity Framework
-- Technology:
+- **Technology:**
   - Docker
   - Apache Kafka
-- Database Systems:
+- **Database Systems:**
   - SQL Server
   - MySQL

@@ -1,5 +1,5 @@
 ## Biography
-![profile picture](/214737.jpg "Athiporn Phumnicom"){:height="18%" width="18%" style="float: right"} 
+![profile picture](/assets/images/214737.jpg "Athiporn Phumnicom"){:height="18%" width="18%" style="float: right"} 
 Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System in 2012 from Burapha University.
 
 #### *2014 - Present*

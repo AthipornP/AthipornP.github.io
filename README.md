@@ -7,9 +7,11 @@ Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System 
 #### *2013 - 2014*
 - Mr. Athiporn Phumnicom joined the web development at [J.I.B. COMPUTER GROUP CO.,LTD](https://www.jib.co.th).
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+---
+| Technical Skill  |                                                                               |
+|------------------|-------------------------------------------------------------------------------|
+| Languages        | C#, Visual Basic, Python, PHP, Java, HTML, Bootstrap, JavaScript, jQuery, SQL |
+| .NET Technology  | ASP.NET,MVC,MVVM,Xamarin,APIs,Blazor,Entity Framework                         |
+| Technology       | Docker, Apache Kafka                                                          |
+| Database Systems | SQL Server, MySQL                                                             |
 

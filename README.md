@@ -7,7 +7,6 @@ Mr. Athiporn Phumnicom received his B.S. degrees in Computer Information System 
 #### *2013 - 2014*
 - Mr. Athiporn Phumnicom joined the web development at [J.I.B. COMPUTER GROUP CO.,LTD](https://www.jib.co.th).
 
----
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |

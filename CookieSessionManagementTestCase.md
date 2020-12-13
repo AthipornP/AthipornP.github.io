@@ -1,14 +1,19 @@
 ## Cookie Expire Test Case
 
 ***Preconditions***
-กำหนดเวลาหมดอายุ cookie 30 นาที
+Set cookie 30 minutes.
 
 ***Input:-***
 
 ***Actions:***
-เข้าสู่ระบบและรอเป็นเวลา 31 นาที
+1. Login.
+2. Wait for 31 minutes.
 
 ***Expected results:***
-Cookie ต้องหมดอายุและให้เข้าสู่ระบบใหม่
+Cookies must expire and login again.
 
 ---
+
+Members
+- Athiporn Phumnicom
+- Phureephat Sottiratanapan

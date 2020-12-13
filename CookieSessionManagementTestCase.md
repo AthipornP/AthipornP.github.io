@@ -1,6 +1,4 @@
-## Cookie-based Session Management Test Case
-
-####Cookie expire test
+## Cookie Expire Test Case
 
 ***Preconditions***
 กำหนดเวลาหมดอายุ cookie 30 นาที

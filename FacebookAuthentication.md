@@ -16,3 +16,7 @@
 ![](/FacebookAuthentication_Images/step2.png "Step 2"){:height="1100px" width="619px" style="float: right"} 
 
 3. เมื่อสแกน QR Code แล้ว ก็นำรหัสที่ได้ ไปกรอกในขั้นตอนต่อไป
+![](/FacebookAuthentication_Images/step3.png "Step 3"){:height="1100px" width="619px" style="float: right"} 
+
+4. เปิดการใช้งาน การยืนยันตัวตนแบบสองชั้น เรียบร้อย
+![](/FacebookAuthentication_Images/step4.png "Step 4"){:height="1100px" width="619px" style="float: right"} 

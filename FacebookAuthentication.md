@@ -11,23 +11,22 @@
 
 1. ไปที่ **ตั้งค่า** จากนั้นเลือก **การรักษาความปลอดภัยและการเข้าสู่ระบบ** และเลือกหัวข้อ **ใช้การยืนยันตัวตนแบบสองชั้น**
 
-![](/FacebookAuthentication_Images/step1.png "Step 1"){:height="619px" width="1100px" style="float: left"} 
-
+![](/FacebookAuthentication_Images/step1.png "Step 1")
 
 2. เลือกว่าต้องการ การยืนยันตัวตนแบบสองชั้นแบบใด  ในที่นี้ เลือกแบบ **แอพยืนยันตัวตน** จากนั้นทำการ สแกน QR CODE เพื่อเข้าสู่การ Authentication
 
-![](/FacebookAuthentication_Images/step2.png "Step 2"){:height="619px" width="1100px" style="float: left"} 
-
+![](/FacebookAuthentication_Images/step2.png "Step 2")
 
 3. เมื่อสแกน QR Code แล้ว ก็นำรหัสที่ได้ ไปกรอกในขั้นตอนต่อไป
 
-
-![](/FacebookAuthentication_Images/step3.png "Step 3"){:height="619px" width="1100px" style="float: left"} 
-
-
+![](/FacebookAuthentication_Images/step3.png "Step 3")
 
 4. เปิดการใช้งาน การยืนยันตัวตนแบบสองชั้น เรียบร้อย
 
+![](/FacebookAuthentication_Images/step4.png "Step 4")
 
-![](/FacebookAuthentication_Images/step4.png "Step 4"){:height="619px" width="1100px" style="float: left"} 
+---
 
+#### Members
+- Athiporn Phumnicom
+- Phureephat Sottiratanapan

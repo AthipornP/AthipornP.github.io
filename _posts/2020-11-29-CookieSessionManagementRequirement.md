@@ -2,7 +2,7 @@
 layout: post
 title: Cookie-based Session Management
 description: Requirement from OWASP
-image: assets/images/CookieSession/OWASP.png
+image: assets/images/CookieSession/OWASP.jpg
 ---
 
 # V3.4 Cookie-based Session Management

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cookie session
+title: Cookie Session
 description: Cookie expire test case
 image: assets/images/chocolate-chip-cookie.jpg
 ---

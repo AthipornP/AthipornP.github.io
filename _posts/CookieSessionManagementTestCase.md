@@ -2,7 +2,7 @@
 layout: post
 title: Cookie expire test case
 description: 
-image: assets/images/pic03.jpg
+image: assets/images/chocolate-chip-cookie.jpg
 ---
 
 ## Cookie Expire Test Case

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cookie Session
-description: Cookie expire test case
-image: assets/images/chocolate-chip-cookie.jpg
+title: Cookie expire test case
+description: 
+image: assets/images/CookieSession/chocolate-chip-cookie.jpg
 ---
 
 ## Cookie Expire Test Case

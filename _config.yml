@@ -5,3 +5,5 @@ gitlab_url: https://gitlab.com/AthipornP
 facebook_url: https://www.facebook.com/athiporn.phumnicom
 remote_theme: "AthipornP/forty-jekyll-theme"
 baseurl: "/AthipornP.github.io"
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook Two-Factor Authentication
-description: การเปิดใช้งาน Two-Factor Authentication
+description: Enable Two-Factor Authentication
 image: assets/images/FacebookAuthentication/facebook_logo1.png
 ---
 

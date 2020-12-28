@@ -4,6 +4,7 @@ github_url: https://github.com/AthipornP
 gitlab_url: https://gitlab.com/AthipornP
 facebook_url: https://www.facebook.com/athiporn.phumnicom
 orcid_url: https://orcid.org/0000-0003-0532-3733
+keybase_url: https://keybase.io/athiporn
 remote_theme: "AthipornP/forty-jekyll-theme"
 baseurl: "/"
 tiles-source: posts # accepts "posts" or "pages"

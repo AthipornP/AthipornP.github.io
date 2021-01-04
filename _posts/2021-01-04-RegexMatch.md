@@ -73,7 +73,7 @@ namespace Code4Sec.RegexMatchSample
 |\s+|มีช่องว่างระหว่างคำ|
 |(Code4Sec)|ต้องเป็นคำว่า \"Code4Sec\" ในตัวอย่างได้ระบุ RegexOptions.IgnoreCase เพื่อเป็นการบอกว่าเป็นอักษรพิมพ์เล็กหรือพิมพ์ใหญ่ก็ได้|
 
-เมื่อ Run คำสั่งแล้วจะได้ผลลัพธ์ดังภาพ
+เมื่อ Run คำสั่งแล้วจะได้ผลลัพธ์ดังภาพ<br/>
 ![]({{site.baseurl}}/assets/images/RegexMatch/1.png){:width="1100px" style="float: center"}
 
 ผลลัพธ์ที่ได้จาก Match method จะ return เป็น substring แรกที่พบในประโยค<br/>

@@ -9,10 +9,8 @@ image: assets/images/RegexMatch/regex.png
 **Regular Expressions** หรือเรียกย่อๆ ว่า ***regex*** ใช้ในการกำหนดรูปแบบหรือกลุ่มคำ เพื่อใช้ในการค้นหาในข้อความต่างๆ ตามที่เราต้องการ regex สามารถใช้ในการค้นหาในรูปแบบของข้อความธรรมดา ตัวเลข หรืออักษระพิเศษ โดยเราสามารถกำหนดได้ว่าจะให้ match แค่ 1 อัน หรือ match ได้หลายๆ อัน หรือไม่ match เลยก็ได้ regex มีให้ใช้งานในเกือบทุกภาษา แต่ในบทความนี้ขอเสนอการใช้งาน regex match ในรูปแบบของภาษา C# 
 
 ##Regex.Match Method
-**Namespace:**
-System.Text.RegularExpressions
-**Assembly:**
-System.Text.RegularExpressions.dll
+**Namespace:** System.Text.RegularExpressions
+**Assembly:** System.Text.RegularExpressions.dll
 
 ---
 Reference:

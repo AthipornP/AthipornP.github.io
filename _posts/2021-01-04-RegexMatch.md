@@ -66,6 +66,7 @@ namespace Code4Sec.RegexMatchSample
 ~~~
 
 จากตัวอย่างด้านบน ได้ระบุ regular expression pattern **(\w+)\s+(Code4Sec)** มีความหมายดังนี้
+
 |Pattern|Description|
 |-------|-----------|
 | (\w+)|ขึ้นต้นด้วยคำอะไรก็ได้|

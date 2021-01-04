@@ -8,20 +8,21 @@ image: assets/images/TryValidateModel/aspnet-core-mvc-logo.jpg
 ## Model คืออะไร?
 โครงสร้างการเขียนโค้ตแบบ MVC (Model-View-Controller)  การส่งผ่านข้อมูลต่างๆ ส่วนใหญ่จะอยู่ในรูปแบบของ ***Model***<br/>Model คือแบบจำลองหรือ Class ที่ภายในบรรจุด้วย Property ต่างๆ สำหรับใช้ในการจัดเก็บข้อมูลเป็นกลุ่มก้อน หรือในภาษา OOP จะเรียกเป็น object data เช่น ข้อมูล Personal ภายในก็จะบรรจุข้อมูลชื่อ นามสกุล ส่วนสูง น้ำหนัก อายุ แล้วเมื่อต้องการรับ - ส่งข้อมูล เราก็จะรับ - ส่งไปทั้งก้อน Personal หรือส่งทั้ง object personal นั่นเอง<br/>ภายใน Model เราสามารถระบุ Requirement ต่างๆ ของแต่ละ Property ได้
 
-#### TryValidateModel(Object) Method
+## TryValidateModel(Object) Method
 **Namespace:** Microsoft.AspNetCore.Mvc<br/>**Assembly:** Microsoft.AspNetCore.Mvc.Core.dll
 
 TryValidateModel เป็น method overloads มีให้เลือกใช้งานหลายรูปแบบ ดังตารางด้านล่าง ([รายละเอียดเพิ่มเติม](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.tryvalidatemodel?view=aspnetcore-5.0#Microsoft_AspNetCore_Mvc_ControllerBase_TryValidateModel_System_Object_))<br/>ในบทความนี้จะเป็นตัวอย่างการใช้งาน **TryValidateModel(Object)**
+
 |Overloads|    |
 |---------|----|
 |**TryValidateModel(Object)**|**Validates the specified model instance.**|
 |TryValidateModel(Object, String)|Validates the specified model instance.|
 
-#### TryValidateModel(Object)
+## TryValidateModel(Object)
 ใช้ในการตรวจสอบความถูกต้องของข้อมูลใน Property ที่อยู่ใน Object นั้น<br/>
 ถ้า Object valid จะ return **true** ถ้าไม่จะ return **false**
 
-#### ตัวอย่าง Personal Model
+## ตัวอย่าง Personal Model
 ~~~
 using System;
 using System.ComponentModel.DataAnnotations;
@@ -48,7 +49,7 @@ namespace TryValidateModelSample
 }
 ~~~
 
-#### สร้าง Object ของ Personal Model
+## สร้าง Object ของ Personal Model
 ~~~
 //สร้าง Object ของ Personal Model
 var objPersonal = new PersonalModel
@@ -61,7 +62,7 @@ var objPersonal = new PersonalModel
 };
 ~~~
 
-#### Validate Personal Model
+## Validate Personal Model
 ตรวจสอบความถูกต้องของ Object Personal โดยใช้ **TryValidateModel(Object)** Method<br/>
 ![]({{site.baseurl}}/assets/images/TryValidateModel/valid_true.png){:width="1100px" style="float: center"}
 จากรูป Object \"objPersonal\" มีความถูกต้อง TryValidateModel จะ return ค่าเป็น true

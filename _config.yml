@@ -8,4 +8,4 @@ keybase_url: https://keybase.io/athiporn
 remote_theme: "AthipornP/forty-jekyll-theme"
 baseurl: "/"
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8

@@ -2,7 +2,7 @@
 layout: post
 title: C# Assembly Load
 description: Load file with strong name assemblies
-image: assets/images/IdentityOption/password_logo.jpeg
+image: assets/images/AssemblyLoadFile/dll-logo.png
 ---
 
 ## Assembly

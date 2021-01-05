@@ -26,7 +26,7 @@ Assemble ที่ผ่านการ Sign แล้ว จะเกิดเ�
 **Namespace:** System.Reflection<br/>**Assembly:** System.Runtime.dll
 
 ## ตัวอย่างการใช้งาน Assembly.Load Method
-ผมจะลอง list assemblies ที่มีอยู่ในเครื่องขึ้นมาทั้งหมด โดยใช้ Tools Developer Command Prompt แล้วใช้คำสั่ง gacutil –l<br/>
+List assemblies ที่มีอยู่ในเครื่องขึ้นมาทั้งหมด โดยใช้ Tools Developer Command Prompt แล้วใช้คำสั่ง gacutil –l<br/>
 ![]({{site.baseurl}}/assets/images/AssemblyLoadFile/3.png){:width="1100px" style="float: center"}
 
 ทดสอบโหลด \"System.Text.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL\" เข้ามาใช้งานใน Project ของเรา
@@ -39,4 +39,5 @@ var assembly = Assembly.Load("System.Text.Encoding, Version=4.0.0.0, Culture=neu
 
 ---
 Reference:
-- 
+- [Assembly](https://thaioop.wordpress.com/2006/12/19/%E0%B8%95%E0%B8%AD%E0%B8%99-20-assembly/)
+- [Assembly.Load Method](https://docs.microsoft.com/en-us/dotnet/api/system.reflection.assembly.load?view=net-5.0)

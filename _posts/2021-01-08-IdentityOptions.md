@@ -32,6 +32,7 @@ IdentityOptions Class ใช้สำหรับการ Config ระบบ I
 - ต้องมีตัวเลข
 - ต้องมีตัวพิมพ์ใหญ่
 - ต้องมีอักขระพิเศษ
+
 ![]({{site.baseurl}}/assets/images/IdentityOption/1.jpg){:width="1100px" style="float: center"}
 
 ทดสอบการลงทะเบียนเข้าใช้งานระบบ ถ้าเราใส่ Password ไม่ถูกต้องตาม Password Policy จะไม่สามารถลงทะเบียนได้ ดังรูปด้านล่าง<br/>

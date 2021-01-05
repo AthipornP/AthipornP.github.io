@@ -13,3 +13,8 @@ image: assets/images/AssemblyLoadFile/dll-logo.png
 ## การเข้ารหัส File หรือ Stream โดยใช้ Data Protection
 1. Create random entropy
 2. 
+
+---
+Reference:
+- [ProtectedMemory.Protect Method](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.protectedmemory.protect?view=netframework-4.8)
+- [How to: Use Data Protection](https://docs.microsoft.com/en-us/dotnet/standard/security/how-to-use-data-protection)

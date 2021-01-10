@@ -6,7 +6,7 @@ image: assets/images/IdentityOption/password_logo.jpeg
 ---
 
 ## Broken Authentication
-การใช้ [ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.2&tabs=visual-studio) ASP.NET Core Identity framework ได้มีการกำหนดค่าเริ่มต้นมาแล้วเป็นอย่างดี โดยใช้ Password hashes ใช้งานร่วมกับ salt 
+การใช้ [ASP.NET Core Identity framework](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.2&tabs=visual-studio)  ได้มีการกำหนดค่าเริ่มต้นมาแล้วเป็นอย่างดี โดยใช้ Password hashes ใช้งานร่วมกับ salt 
 Identity ใช้ฟังก์ชันการแฮช PBKDF2 สำหรับรหัสผ่านและสร้าง salt สำหรับผู้ใช้แต่ละคน ในบทความนี้เป็นตัวอย่างการใช้ IdentityOptions Class ในการกำหนด Password Policy
 
 ## IdentityOptions Class

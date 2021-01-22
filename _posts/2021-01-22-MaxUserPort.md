@@ -8,8 +8,8 @@ image: assets/images/MaxUserPort/netstat.png
 ## Improve Network Performance
 สำหรับสาย Dev ที่มีการพัฒนา Web application ใช้งาน Internet Information Services (IIS) เป็น Web Server ในระบบปฏิบัติการ Windows 8 และ Windows 2012 นะครับ  
 ตอนรันทดสอบในเครื่องทดสอบหรือเครื่องตัวเองก็อาจจะไม่พบปัญหา แต่เมื่อ Publish ขึ้น Production อาจะเจอ Error ***SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted*** และตามด้วย IP:Port ที่เราเรียกใช้งาน
-
-![]({{site.baseurl}}/assets/images/MaxUserPort/1234.jpg){:width="1100px" style="float: center"}
+<br>
+![]({{site.baseurl}}/assets/images/MaxUserPort/Screenshot 2021-01-22 142920.png){:width="1100px" style="float: center"}
 
 กรณีนี้อาจเกิดจาก Port ฝั่ง Outbound บนเครื่อง Server เต็มเมื่อมีการ Request จาก Client เป็นจำนวนมาก<br>สามารถดู Dynamic port ได้โดยใช้ Command
 >netsh int ipv4 show dynamicport tcp

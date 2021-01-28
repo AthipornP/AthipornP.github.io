@@ -65,7 +65,7 @@ var objPersonal = new PersonalModel
 ## Validate Personal Model
 ตรวจสอบความถูกต้องของ Object Personal โดยใช้ **TryValidateModel(Object)** Method<br/>
 ![]({{site.baseurl}}/assets/images/TryValidateModel/valid_true.png){:width="1100px" style="float: center"}
-จากรูป Object \"objPersonal\" มีความถูกต้อง TryValidateModel จะ return ค่าเป็น true
+<br/>จากรูป Object \"objPersonal\" มีความถูกต้อง TryValidateModel จะ return ค่าเป็น true
 
 ทดลองเปลี่ยนค่า Age จาก 31 เป็น 150 ซึ่งเกินจากที่เราได้กำหนดไว้ใน Model ด้วยคำสั่ง **[Range(1,100)]** แล้วลอง Validate อีกครั้งด้วย TryValidateMedel จะเห็นว่า return ค่าเป็น false ดังภาพด้านล่าง<br/>
 ![]({{site.baseurl}}/assets/images/TryValidateModel/valid_false.png){:width="1100px" style="float: center"}

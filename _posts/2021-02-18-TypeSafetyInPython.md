@@ -2,7 +2,7 @@
 layout: post
 title: Type safety in Python
 description: 
-image: assets/images/TypeSaftyInPython/python-logo-master-v3-TM.png
+image: assets/images/TypeSafetyInPython/python-logo-master-v3-TM.png
 ---
 
 ## Type safety in Python

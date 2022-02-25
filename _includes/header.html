@@ -16,7 +16,7 @@
             <li><a href="{{ " " | absolute_url }}/">{{ page.title }}</a></li>
             {% endif %} {% endfor %} {% for page in site.html_pages %} {% if page.layout != "home" and page.layout != "logs" and page.nav-menu == true %}
             <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-            {% endif %} {% endfor %} {% for page in site.html_pages %} {% if page.layout != "home" and page.layout2 == "logs" and page.nav-menu == true %}
+            {% endif %} {% endfor %} {% for page in site.html_pages %} {% if page.layout != "home" and page.description == "logs" and page.nav-menu == true %}
             <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
             {% endif %} {% endfor %}
         </ul>

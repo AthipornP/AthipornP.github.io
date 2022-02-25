@@ -17,7 +17,6 @@
             {% endif %} {% endfor %} {% for page in site.html_pages %} {% if page.layout != "home" and page.nav-menu == true %}
             <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
             {% endif %} {% endfor %}
-            <li>CTS Logs</li>
         </ul>
         <ul class="actions vertical">
             <!-- <li><a href="#" class="button special fit">Get Started</a></li> -->
